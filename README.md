@@ -46,6 +46,18 @@ extremely left-leaning. eat the rich. mutual aid > capitalism. trans rights are 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Slang](https://img.shields.io/badge/Slang-000000?style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge)
+![Odin](https://img.shields.io/badge/Odin-2B6CB0?style=for-the-badge)
+![XML](https://img.shields.io/badge/xml-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![.reg](https://img.shields.io/badge/.reg-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Esoteric & Low-level Languages
+![HeLL](https://img.shields.io/badge/HeLL-8B0000?style=for-the-badge)
+![LMAO](https://img.shields.io/badge/LMAO-FF6347?style=for-the-badge)
+![LMFAO](https://img.shields.io/badge/LMFAO-FF4500?style=for-the-badge)
+![Malbolge](https://img.shields.io/badge/Malbolge-000000?style=for-the-badge)
+![Malbolge Unshackled](https://img.shields.io/badge/Malbolge_Unshackled-1C1C1C?style=for-the-badge)
 
 ### Development
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -59,6 +71,18 @@ extremely left-leaning. eat the rich. mutual aid > capitalism. trans rights are 
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-000?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7B68EE?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-5D9090?style=for-the-badge)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Software & Services
 ![Firefox](https://img.shields.io/badge/Firefox-E34F26?style=for-the-badge&logo=firefox&logoColor=white)
@@ -72,6 +96,9 @@ extremely left-leaning. eat the rich. mutual aid > capitalism. trans rights are 
 ![AutoDesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=FreeCAD&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3388CC?style=for-the-badge&logo=Krita&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### OS & Hardware
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
