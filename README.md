@@ -207,7 +207,7 @@ why you should care: small libraries are a great place to practice clean APIs, t
 ![Discord badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Firefox badge](https://img.shields.io/badge/Firefox-E34F26?style=for-the-badge&logo=firefox&logoColor=white)
 ![FreeCAD badge](https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=FreeCAD&logoColor=white)
-![GitLab badge](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Colab badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Krita badge](https://img.shields.io/badge/Krita-3388CC?style=for-the-badge&logo=Krita&logoColor=white)
